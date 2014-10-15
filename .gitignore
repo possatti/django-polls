@@ -1,0 +1,7 @@
+# Arquivos gerados pelo setuptools
+build/
+dist/
+django_polls.egg-info/
+
+# Python "compilado"
+*.pyc
